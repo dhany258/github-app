@@ -21,10 +21,11 @@ Discover my Kotlin-based Android application that integrates seamlessly with the
 
 ## Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
 
    ```bash
    git clone https://github.com/dhany258/github-app.git
+   ```
 ## Open the Project
 
 Open the project in Android Studio.
